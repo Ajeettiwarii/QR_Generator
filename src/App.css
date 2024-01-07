@@ -1,0 +1,48 @@
+/* App.css */
+
+.makingqr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.qr {
+  font-size: 24px;
+  color: #333;
+}
+
+.makingqr1 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qr1 {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 70%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.qr2 {
+  padding: 10px 15px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.makingqr2 {
+  margin-top: 20px;
+}
+
+.qr3 {
+  margin-top: 20px;
+}
